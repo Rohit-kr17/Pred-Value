@@ -1,7 +1,7 @@
 # Pred-Value
 This repository contains a Python script for predicting housing prices using gradient descent and the normal equation. The script performs data preprocessing, model training, evaluation, and visualization.
 
-# Dataset
+## Dataset
 The dataset used in this project is the Housing Price dataset (Housing Price data set.csv). It contains various features related to housing properties such as number of bedrooms, bathrooms, and size of the house.
 
 # Features
